@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elang_Argawana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elang-argawana)
 [![Gmail](https://img.shields.io/badge/Email-elangargawana.15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elangargawana.15@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@elngargwna-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elngargwna)
 ![Location](https://img.shields.io/badge/📍_Semarang-Central_Java,_ID-orange?style=for-the-badge)
 
 <img src="./assets/tech-marquee.svg" width="100%" alt="" />
@@ -123,6 +124,7 @@ Feel free to reach out if you'd like to talk about web development, collaborate 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elang-argawana)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elangargawana.15@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elngargwna)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282134081213)
 
 <i>💡 "Code is like humor. When you have to explain it, it's bad."</i>
